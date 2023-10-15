@@ -1,0 +1,3 @@
+To create a team of Best XI players such that - 
+1. The team is able to score at least 180 runs on an average.
+2. The team is able to defend 50 runs on an average.

@@ -1,0 +1,5 @@
+Batting average - Average runs scored in an innings - greater than 40
+Strike rate - Number of runs scored per 100 balls - greater than 125
+Innings batted - Total innings batted - greater than 3
+Avg. Balls faced - Average number of balls faced by the batter in an innings - greater than 20
+Batting Position - Order in which the batter played - greater than 2

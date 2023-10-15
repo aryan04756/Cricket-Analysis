@@ -1,0 +1,5 @@
+Batting average - Average runs scored in an innings - greater than 30
+Strike Rate - Number of runs scored per 100 balls - greater than 140
+Innings batted - Total innings batted - greater than 3
+Boundary % - % runs scored in boundaries - greater than 50
+Batting Position - Order in which the batter played - less than 4

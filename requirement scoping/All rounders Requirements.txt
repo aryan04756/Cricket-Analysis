@@ -1,0 +1,7 @@
+Batting average - Average number of runs scored in an innings - greater than 15
+Strike rate - Number of runs scored per 100 balls - greater than 140
+Innings batted - Total innings batted - greater than 2
+Batting position - Order in which the batter played - greater than 4
+Innings bowled - Total innings bowled - greater than 2
+Bowling economy - Average runs allowed per over - less than 7
+Bowling Strike Rate - Average number of balls required to take a wicket - less than 20
